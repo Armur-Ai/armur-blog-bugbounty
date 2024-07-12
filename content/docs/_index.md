@@ -1,5 +1,5 @@
 ---
 taxonomyCloud: []
-title: Security Leaders
+title: Bug Bounty Hunting
 weight: 20
 ---
