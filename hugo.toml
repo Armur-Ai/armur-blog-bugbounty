@@ -1,4 +1,4 @@
-baseURL = 'https://armur.ai/top-10'
+baseURL = 'https://armur.ai/bug-bounty'
 languageCode = 'en-us'
 title = 'Bug Bounty Hunting'
 contentDir = "content"

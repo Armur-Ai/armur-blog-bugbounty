@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vulnerability Scanning &amp; Assessment on Bug Bounty Hunting</title>
+    <link>http://localhost:1313/bug-bounty/docs/vuln/</link>
+    <description>Recent content in Vulnerability Scanning &amp; Assessment on Bug Bounty Hunting</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/bug-bounty/docs/vuln/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building a Custom Vulnerability Scanner with Python: Automating Security Checks for Web Applications</title>
+      <link>http://localhost:1313/bug-bounty/docs/vuln/vuln/2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bug-bounty/docs/vuln/vuln/2/</guid>
+      <description>Introduction linkWhile automated vulnerability scanners offer a broad range of tests, they often fall short when it comes to identifying application-specific vulnerabilities. Building a custom vulnerability scanner with Python empowers you to create targeted checks tailored to your unique needs. This tutorial will guide you through the process of developing a basic scanner leveraging Python&amp;rsquo;s flexibility and powerful libraries.&#xA;Prerequisites link Basic knowledge of Python programming Familiarity with HTTP requests and web application security concepts Python 3 installed on your system Setting up the Environment link Install necessary libraries: pip install requests beautifulsoup4 Create a new Python file: e.</description>
+    </item>
+    <item>
+      <title>Mastering Burp Suite Intruder: Advanced Fuzzing and Payload Customization for Vulnerability Discovery</title>
+      <link>http://localhost:1313/bug-bounty/docs/vuln/vuln/1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bug-bounty/docs/vuln/vuln/1/</guid>
+      <description>Introduction linkBurp Suite Intruder is a powerful tool for automating customized attacks against web applications. While it&amp;rsquo;s often used for simple brute-forcing attacks, its true potential lies in its ability to perform sophisticated fuzzing with precise payload manipulation. This tutorial will guide you through advanced Intruder techniques to uncover hidden vulnerabilities.&#xA;Setting the Stage: Target Selection and Scope Definition link Identify your target: Choose a specific functionality or parameter within the web application you want to test.</description>
+    </item>
+  </channel>
+</rss>
